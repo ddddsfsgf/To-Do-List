@@ -1,19 +1,4 @@
-body{
-    background-color: aqua;
-}
-h1,
-label{
-    color: white;
-}
-form{
-    align-items: center;
-}
-#Add{
-    text-align: center;
-}
 .crossout{
     text-decoration: line-through;   
 }
-li{
-    margin: 20px;
-}
+
